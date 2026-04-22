@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  > whoami                                ║
+║  > who am i                                ║
 ║                                          ║
 ║    ADITYA KHUNTIA                        ║
 ║    CS Sophomore @ SRM IST                ║
