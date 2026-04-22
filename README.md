@@ -163,18 +163,18 @@ aditya = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<div align="center">
+🔹 StockVerdict — Real-time stock analysis (FastAPI + Next.js)  
+🔹 Eavesdropping Detection System — Security-focused detection system  
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaakhuntia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## ⚡ Tech
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaakhuntia&layout=compact&theme=tokyonight&hide_border=true)
+Python • FastAPI • Next.js • REST APIs • SQL • Git  
 
-</div>
+## 🧠 Focus
 
----
-
+Backend systems • Clean APIs • Scalable applications
 ## 📜 Certifications
 
 - 🎓 **Database Management Systems** — NPTEL (2026)
