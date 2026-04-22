@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║  > who am i                                ║
-║                                          ║
-║    ADITYA KHUNTIA                        ║
-║    CS Sophomore @ SRM IST                ║
-║    Python · FastAPI · Next.js 15         ║
-║                                          ║
-║  > status: open to internships ✓         ║
-╚══════════════════════════════════════════╝
+╔════════════════════════════════════════════╗
+║  > whoami                                 ║
+║                                           ║
+║    ADITYA KHUNTIA                         ║
+║    CS Sophomore @ SRM IST                 ║
+║    Python · FastAPI · Next.js             ║
+║                                           ║
+║  > status: building & shipping projects   ║
+╚════════════════════════════════════════════╝
 ```
 
 ### CS Sophomore @ SRM IST · Python · FastAPI · Next.js 15
