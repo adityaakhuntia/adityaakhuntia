@@ -8,7 +8,7 @@
 ║    CS Sophomore @ SRM IST                 ║
 ║    Python · FastAPI · Next.js             ║
 ║                                           ║
-║  > status: building & shipping projects   ║
+║  >  status: building real time projects   ║
 ╚════════════════════════════════════════════╝
 ```
 
