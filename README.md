@@ -190,4 +190,4 @@ Backend systems • Clean APIs • Scalable applications
 
 *"Building things that work, not just things that demo."*
 
-</div>
+</div> 
