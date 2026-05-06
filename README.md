@@ -186,7 +186,7 @@ Backend systems • Clean APIs • Scalable applications
 
 <div align="center">
 
-### 💬 Open to remote SWE internships — June/July 2026
+
 ### 📩 adityakhuntia090@gmail.com
 
 *"Building things that work, not just things that demo."*
