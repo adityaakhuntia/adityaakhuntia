@@ -15,6 +15,7 @@
 🚀 **Full-Stack Developer | ML Enthusiast | Open to Remote SWE Internships (June/July 2026)**  
 🌟 4+ Projects | 🏆 3 Competition Wins | 📈 9.06 CGPA | 💼 Seeking SWE Roles
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakhuntia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakhuntia)
 [![Gmail](https://img.shields.io/badge/Gmail-adityakhuntia090@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakhuntia090@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adityaakhuntia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaakhuntia)
