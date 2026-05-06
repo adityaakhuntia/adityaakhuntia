@@ -99,16 +99,16 @@ aditya = {
 </td>
 <td width="50%" valign="top">
 
-### 📄 [ResumeBuilder](https://github.com/adityaakhuntia/ResumeBuilder)
-> Web platform for ATS-optimized resumes with scoring and export
+### � [ExpenseTracker](https://github.com/adityaakhuntia/ExpenseTracker)
+> Personal finance manager with transaction tracking, budgets, and analytics
 
-- **Flask** backend · **SQLite** database
-- ATS score analysis & template customization
-- Export-ready resume generation
-- Clean, functional full-stack architecture
+- **Next.js 15** frontend with responsive dashboard
+- **FastAPI** backend + **SQLite** database
+- Expense categories, budget alerts, and export features
+- Clean UI with financial insights and charts
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
@@ -143,6 +143,7 @@ aditya = {
 
 🔹 StockVerdict — Real-time stock analysis (FastAPI + Next.js)  
 🔹 Eavesdropping Detection System — Security-focused detection system  
+🔹 ExpenseTracker — Personal finance manager with budgets, transactions, and analytics  
 
 ## ⚡ Tech
 
