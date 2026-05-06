@@ -146,7 +146,7 @@ aditya = {
 
 ## ⚡ Tech
 
-Python • FastAPI • Next.js • REST APIs • SQL • Git  
+Python • FastAPI • Next.js • REST APIs • SQL • Git   
 
 ## 🧠 Focus
 
