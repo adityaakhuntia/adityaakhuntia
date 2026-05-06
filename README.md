@@ -131,7 +131,6 @@ aditya = {
 
 ## 🏆 Achievements
 
-| 🏆 | Achievement |
 | --- | :--- |
 | 🥇 | **1st Prize & Team Leader** — Codeathon, SRM University (2026) |
 | 🥈 | **Runner-up, Backend Dev** — Quantathon 3.0, SRM University (2026) |
